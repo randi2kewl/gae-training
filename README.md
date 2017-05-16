@@ -1,4 +1,4 @@
-# gae-training
+# What is this for?
 Training materials to help newcomers navigate the thick waters of the Google Cloud Platform
 
 ## Google Cloud Platform - High Level
